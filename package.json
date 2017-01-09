@@ -2,6 +2,7 @@
   "name": "cordova-plugin-camera",
   "version": "2.3.2-dev",
   "description": "Cordova Camera Plugin",
+  "types": "./Camera.d.ts",
   "cordova": {
     "id": "cordova-plugin-camera",
     "platforms": [
